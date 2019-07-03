@@ -1,0 +1,125 @@
+﻿body {
+  margin:0px;
+  background-image:none;
+  position:static;
+  left:auto;
+  width:1230px;
+  margin-left:0;
+  margin-right:0;
+  text-align:left;
+}
+#base {
+  position:absolute;
+  z-index:0;
+}
+#u2810_img {
+  border-width:0px;
+  position:absolute;
+  left:0px;
+  top:0px;
+  width:1215px;
+  height:609px;
+}
+#u2810 {
+  border-width:0px;
+  position:absolute;
+  left:15px;
+  top:7px;
+  width:1215px;
+  height:609px;
+}
+#u2810_text {
+  border-width:0px;
+  position:absolute;
+  left:0px;
+  top:0px;
+  width:0px;
+  visibility:hidden;
+  word-wrap:break-word;
+}
+#u2811_div {
+  border-width:0px;
+  position:absolute;
+  left:0px;
+  top:0px;
+  width:91px;
+  height:43px;
+  background:inherit;
+  background-color:rgba(255, 255, 255, 1);
+  box-sizing:border-box;
+  border-width:1px;
+  border-style:solid;
+  border-color:rgba(121, 121, 121, 1);
+  border-radius:5px;
+  -moz-box-shadow:none;
+  -webkit-box-shadow:none;
+  box-shadow:none;
+}
+#u2811 {
+  border-width:0px;
+  position:absolute;
+  left:429px;
+  top:66px;
+  width:91px;
+  height:43px;
+}
+#u2811_text {
+  border-width:0px;
+  position:absolute;
+  left:2px;
+  top:12px;
+  width:87px;
+  word-wrap:break-word;
+}
+#u2811_ann {
+  border-width:0px;
+  position:absolute;
+  left:513px;
+  top:62px;
+  width:1px;
+  height:1px;
+}
+#u2812 {
+  border-width:0px;
+  position:absolute;
+  left:569px;
+  top:75px;
+  width:95px;
+  height:25px;
+}
+#u2812_input {
+  position:absolute;
+  left:0px;
+  top:0px;
+  width:95px;
+  height:25px;
+  font-family:'PingFangSC-Regular', 'PingFang SC';
+  font-weight:400;
+  font-style:normal;
+  font-size:12px;
+  text-decoration:none;
+  color:#000000;
+  text-align:left;
+}
+#u2813 {
+  border-width:0px;
+  position:absolute;
+  left:735px;
+  top:75px;
+  width:95px;
+  height:25px;
+}
+#u2813_input {
+  position:absolute;
+  left:0px;
+  top:0px;
+  width:95px;
+  height:25px;
+  font-family:'PingFangSC-Regular', 'PingFang SC';
+  font-weight:400;
+  font-style:normal;
+  font-size:12px;
+  text-decoration:none;
+  color:#000000;
+  text-align:left;
+}
